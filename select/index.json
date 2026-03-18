@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルミナスブルー",
+  "base_artist": "しほ",
+  "createdAt": "2026-03-18T12:30:58.316925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルミナスブルー",
+      "artist": "しほ",
+      "has_synced": false,
+      "path": "select/pl_01_ルミナスブルー_しほ.txt"
+    }
+  ]
+}
